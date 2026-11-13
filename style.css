@@ -6,10 +6,20 @@ h1{
     text-align: center;
 }
 p{
+<<<<<<< HEAD
     font-size: 18px;
     color: blue;
 }
 li{
     font-size: 16px;
     color: green;
+=======
+    font-size: 40px;
+    color: lightblue;
+}
+h6{
+    color: yellow;
+    text-align: center;
+    font-size: 80px;
+>>>>>>> 686a9cd (added new heading)
 }
